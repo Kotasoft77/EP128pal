@@ -7,4 +7,4 @@ The program was written in Delphi.
 - Programming language: Delphi
 
 ## Files
-The repository contains the source code, graphics and the compiled program.
+The repository contains the source code, documentation and the compiled program.
